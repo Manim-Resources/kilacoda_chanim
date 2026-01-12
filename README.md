@@ -1,4 +1,9 @@
 # Chanim
+> [!Warning]
+> This repository is archived and not being developed on as of January 11th, 2026. I stopped working on Manim a couple years ago, and also just lost interest in my chemistry videos project. There's also better ways to represent chemical structures and even 3D molecular diagrams in manim people have developed in the meantime (which I'd link to, but were unfortunately wiped out in the recent deletion of the Manim discord). Hopefully you are able to rediscover those and use them according to your needs.
+>
+> Thank you for all the support provided on this repository and on YouTube over the past years. It's always surprising to me when I get a notification for someone starring this repo or commenting on my videos lol, but I do sincerely appreciate it.
+
 This is an extension to [Manim](https://www.github.com/ManimCommunity/manim) library (initially created by [3Blue1Brown](https://github.com/3b1b/manim)),
 for making videos regarding chemistry.
 > A Hindi version of this README is available [here](https://github.com/kilacoda/chanim/blob/master/README-हिन्दी.md).
